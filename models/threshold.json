@@ -1,0 +1,4 @@
+{
+    "model": "LightGBM",
+    "threshold": 0.62
+}
